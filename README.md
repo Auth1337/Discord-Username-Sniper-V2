@@ -7,5 +7,8 @@ Discord Removed Discriminator In New Update Of Discord, So This Is A Sniper It W
 # How To Use?
 Put Token And Username That You Wanna Claim in config.json
 
-# Support 
+# Support Us
+Support Us By Giving A Star To This Repository And Fork This Repository ❤️
+
+# Help
 [Here](https://t.me/auth3301)
