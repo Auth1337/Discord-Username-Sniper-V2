@@ -8,4 +8,4 @@ Discord Removed Discriminator In New Update Of Discord, So This Is A Sniper It W
 Put Token And Username That You Wanna Claim in config.json
 
 # Support 
-[https://t.me/auth3301](Here)
+[Here](https://t.me/auth3301)
